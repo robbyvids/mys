@@ -3,6 +3,12 @@
 <p>Supported websites: 
   <ul>
     <li><a href="https://www.vimeo.com/">Vimeo.com</a></li>
+    <li><a href="https://www.youtube.com/">Youtube.com</a></li>
+    <li><a href="https://www.streamable.com/">Streamable.com</a></li>
+    <li><a href="https://www.screenpal.com/">Screenpal.com</a></li>
+    <li><a href="https://www.xvideos.com/">Xvideos.com</a></li>
+    <li><a href="https://www.xhamster.com/">Xhamster.com</a></li>
+    <li><a href="https://www.xxxniches.com/">XXXniches.com</a></li>
   </ul>
 
 
